@@ -57,11 +57,11 @@ Required Python libraries (listed in requirements.txt)
 
 ##### Steps
 
-1.Clone the repository.
-2.Select a folder where you want to save the project. 
-3.Open Vs code and create and activate your virtual environment.
+1. Clone the repository.
+2. Select a folder where you want to save the project. 
+3. Open Vs code and create and activate your virtual environment.
 4. Connect to the data source.
-6. Import all necessary libraries.
+5. Import all necessary libraries.
 
 
 
