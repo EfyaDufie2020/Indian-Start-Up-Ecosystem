@@ -32,11 +32,11 @@ The Indian start-up ecosystem is a thriving hub of innovation and entrepreneursh
 
 ##### Objectives
 
-a) To analyze the funding data trends of Indian start-ups from 2018 to 2021.
-b) To identify key sectors and stages of investment.
-c) To understand the geographical distribution of start-ups.
-d) To highlight promising opportunities for investors.
-e) To use the CRISP-DM process for structured data analysis.
+1. To analyze the funding data trends of Indian start-ups from 2018 to 2021.
+2. To identify key sectors and stages of investment.
+3. To understand the geographical distribution of start-ups.
+4. To highlight promising opportunities for investors.
+5. To use the CRISP-DM process for structured data analysis.
 
 
 
@@ -57,11 +57,11 @@ Required Python libraries (listed in requirements.txt)
 
 ##### Steps
 
-1.Clone the repository.
-2.Select a folder where you want to save the project. 
-3.Open Vs code and create and activate your virtual environment.
+1. Clone the repository.
+2. Select a folder where you want to save the project. 
+3. Open Vs code and create and activate your virtual environment.
 4. Connect to the data source.
-6. Import all necessary libraries.
+5. Import all necessary libraries.
 
 
 
@@ -101,12 +101,12 @@ Customize the analysis as needed by editing the scripts and notebooks.
 
 ##### Features
 
-a) Data Analysis: Comprehensive analysis of start-up funding data from 2018 to 2021.
-b) Sector Insights: Identification of key sectors attracting investments.
-c) Geographical Distribution: Analysis of start-up locations across India.
-d) Investment Stages: Insights into different stages of investments.
-e) Investor : The top investors in the ecosytem
-f) CRISP-DM Process: Structured approach to data mining and analysis.
+1. Data Analysis: Comprehensive analysis of start-up funding data from 2018 to 2021.
+2. Sector Insights: Identification of key sectors attracting investments.
+3. Geographical Distribution: Analysis of start-up locations across India.
+4. Investment Stages: Insights into different stages of investments.
+5. Investor : The top investors in the ecosytem
+6. CRISP-DM Process: Structured approach to data mining and analysis.
 
 ##### Project Structure
 
@@ -143,11 +143,11 @@ india-startup-ecosystem/
 
 I welcome contributions to improve this project. Please follow these steps:
 
--Fork the repository.
--Create a new branch.
--Make your changes.
--Commit your changes.
--Open a pull request.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit your changes.
+5. Open a pull request.
 
 
 ##### License
