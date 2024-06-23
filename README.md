@@ -101,12 +101,12 @@ Customize the analysis as needed by editing the scripts and notebooks.
 
 ##### Features
 
-a) Data Analysis: Comprehensive analysis of start-up funding data from 2018 to 2021.
-b) Sector Insights: Identification of key sectors attracting investments.
-c) Geographical Distribution: Analysis of start-up locations across India.
-d) Investment Stages: Insights into different stages of investments.
-e) Investor : The top investors in the ecosytem
-f) CRISP-DM Process: Structured approach to data mining and analysis.
+1. Data Analysis: Comprehensive analysis of start-up funding data from 2018 to 2021.
+2. Sector Insights: Identification of key sectors attracting investments.
+3. Geographical Distribution: Analysis of start-up locations across India.
+4. Investment Stages: Insights into different stages of investments.
+5. Investor : The top investors in the ecosytem
+6. CRISP-DM Process: Structured approach to data mining and analysis.
 
 ##### Project Structure
 
