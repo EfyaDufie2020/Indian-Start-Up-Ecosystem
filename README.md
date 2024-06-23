@@ -32,11 +32,11 @@ The Indian start-up ecosystem is a thriving hub of innovation and entrepreneursh
 
 ##### Objectives
 
-a) To analyze the funding data trends of Indian start-ups from 2018 to 2021.
-b) To identify key sectors and stages of investment.
-c) To understand the geographical distribution of start-ups.
-d) To highlight promising opportunities for investors.
-e) To use the CRISP-DM process for structured data analysis.
+1. To analyze the funding data trends of Indian start-ups from 2018 to 2021.
+2. To identify key sectors and stages of investment.
+3. To understand the geographical distribution of start-ups.
+4. To highlight promising opportunities for investors.
+5. To use the CRISP-DM process for structured data analysis.
 
 
 
