@@ -143,11 +143,11 @@ india-startup-ecosystem/
 
 I welcome contributions to improve this project. Please follow these steps:
 
--Fork the repository.
--Create a new branch.
--Make your changes.
--Commit your changes.
--Open a pull request.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit your changes.
+5. Open a pull request.
 
 
 ##### License
