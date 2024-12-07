@@ -1,5 +1,6 @@
 # Indian-Start-Up-Ecosystem
 
+![Indian Ecosystem Photo](./Data/indian-startup-ecosystem-744x460.png)
 
 
 My goal is to explore the datasets and derive key insights that will serve as a springboard for investors to venture into the rapidly growing start-up ecosystem in India. By analyzing funding data from 2018 to 2021, I aim to identify critical factors such as the amount of funding received, sectors, stage of investment, investors, geographical location, and other promising opportunities. My analysis is conducted using the CRISP-DM process.
